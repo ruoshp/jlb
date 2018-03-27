@@ -1,4 +1,4 @@
-package student;
+import student.*;
 
 
 import resultPackage.Result;
